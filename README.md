@@ -1,2 +1,2 @@
-# Lab04
-The Raspberry Pi as a device in the IoT 
+# IoT-alarm
+eecs2031 IoT alarm assignment. The code here is just the skeleton. You will have to write the rest.
